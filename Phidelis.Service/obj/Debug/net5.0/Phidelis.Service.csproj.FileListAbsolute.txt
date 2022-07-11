@@ -1,0 +1,17 @@
+D:\Phidelis\Phidelis.Service\obj\Debug\net5.0\Phidelis.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phidelis\Phidelis.Service\obj\Debug\net5.0\Phidelis.Service.AssemblyInfoInputs.cache
+D:\Phidelis\Phidelis.Service\obj\Debug\net5.0\Phidelis.Service.AssemblyInfo.cs
+D:\Phidelis\Phidelis.Service\obj\Debug\net5.0\Phidelis.Service.csproj.CoreCompileInputs.cache
+D:\Phidelis\Phidelis.Service\bin\Debug\net5.0\Phidelis.Service.deps.json
+D:\Phidelis\Phidelis.Service\bin\Debug\net5.0\Phidelis.Service.dll
+D:\Phidelis\Phidelis.Service\bin\Debug\net5.0\ref\Phidelis.Service.dll
+D:\Phidelis\Phidelis.Service\bin\Debug\net5.0\Phidelis.Service.pdb
+D:\Phidelis\Phidelis.Service\bin\Debug\net5.0\Phidelis.Entities.dll
+D:\Phidelis\Phidelis.Service\bin\Debug\net5.0\Phidelis.Repository.dll
+D:\Phidelis\Phidelis.Service\bin\Debug\net5.0\Phidelis.Entities.pdb
+D:\Phidelis\Phidelis.Service\bin\Debug\net5.0\Phidelis.Repository.pdb
+D:\Phidelis\Phidelis.Service\obj\Debug\net5.0\Phidelis.Service.csproj.AssemblyReference.cache
+D:\Phidelis\Phidelis.Service\obj\Debug\net5.0\Phidelis.Service.csproj.CopyComplete
+D:\Phidelis\Phidelis.Service\obj\Debug\net5.0\Phidelis.Service.dll
+D:\Phidelis\Phidelis.Service\obj\Debug\net5.0\ref\Phidelis.Service.dll
+D:\Phidelis\Phidelis.Service\obj\Debug\net5.0\Phidelis.Service.pdb

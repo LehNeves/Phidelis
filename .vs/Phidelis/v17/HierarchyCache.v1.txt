@@ -1,0 +1,263 @@
+﻿++Solution 'Phidelis' ‎(5 of 5 projects)
+++5 - Crosscutting
+++3 - Infra
+i:{00000000-0000-0000-0000-000000000000}:3 - Infra
+++Phidelis.Repository
+i:{053ebdcb-afe0-40cb-9424-05ced48abe3c}:Phidelis.Repository
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\phidelis.repository\phidelis.repository.csproj
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:d:\phidelis\phidelis.repository\phidelis.repository.csproj
+i:{68e84b7f-0bd9-4ddb-9b26-50345e8a754e}:d:\phidelis\phidelis.repository\bin\debug\net5.0\phidelis.repository.dll
+++Dependencies
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:>564
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:>641
+i:{1a2349bc-f526-431b-82fb-9192b15677e0}:>562
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:>565
+i:{68e84b7f-0bd9-4ddb-9b26-50345e8a754e}:>1069
+i:{57042758-8be3-4305-9ed6-d0debead4a75}:>3622
+++Analyzers
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:analyzers
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:analyzers
+i:{1a2349bc-f526-431b-82fb-9192b15677e0}:analyzers
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:analyzers
+i:{68e84b7f-0bd9-4ddb-9b26-50345e8a754e}:analyzers
+i:{57042758-8be3-4305-9ed6-d0debead4a75}:analyzers
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{1a2349bc-f526-431b-82fb-9192b15677e0}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{68e84b7f-0bd9-4ddb-9b26-50345e8a754e}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{57042758-8be3-4305-9ed6-d0debead4a75}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{1a2349bc-f526-431b-82fb-9192b15677e0}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{68e84b7f-0bd9-4ddb-9b26-50345e8a754e}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{57042758-8be3-4305-9ed6-d0debead4a75}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:c:\users\lneve\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:c:\users\lneve\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:c:\users\lneve\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{68e84b7f-0bd9-4ddb-9b26-50345e8a754e}:c:\users\lneve\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Frameworks
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:frameworks
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:frameworks
+i:{1a2349bc-f526-431b-82fb-9192b15677e0}:frameworks
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:frameworks
+i:{68e84b7f-0bd9-4ddb-9b26-50345e8a754e}:frameworks
+i:{57042758-8be3-4305-9ed6-d0debead4a75}:frameworks
+++Microsoft.NETCore.App
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:d:\phidelis\phidelis.repository\microsoft.netcore.app
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\phidelis\microsoft.netcore.app
+i:{1a2349bc-f526-431b-82fb-9192b15677e0}:d:\phidelis\phidelis.entities\microsoft.netcore.app
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:d:\phidelis\phidelis.unittest\microsoft.netcore.app
+i:{68e84b7f-0bd9-4ddb-9b26-50345e8a754e}:d:\phidelis\phidelis.service\microsoft.netcore.app
+i:{57042758-8be3-4305-9ed6-d0debead4a75}:d:\phidelis\hostedservice\microsoft.netcore.app
+++Packages
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:packages
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:packages
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:packages
+++Microsoft.EntityFrameworkCore (5.0.17)
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:>2399
+++Projects
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:projects
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:projects
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:projects
+i:{68e84b7f-0bd9-4ddb-9b26-50345e8a754e}:projects
+++Phidelis.Entities
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:d:\phidelis\phidelis.entities\phidelis.entities.csproj
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\phidelis.entities\phidelis.entities.csproj
+i:{8d2d479c-40e8-4f4e-aa51-26ffde0d4a40}:Phidelis.Entities
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:d:\phidelis\phidelis.entities\phidelis.entities.csproj
+i:{68e84b7f-0bd9-4ddb-9b26-50345e8a754e}:d:\phidelis\phidelis.entities\bin\debug\net5.0\phidelis.entities.dll
+++Context
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:d:\phidelis\phidelis.repository\context\
+++PhidelisEFContext.cs
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:d:\phidelis\phidelis.repository\context\phidelisefcontext.cs
+++Interfaces
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:d:\phidelis\phidelis.repository\interfaces\
+i:{1a2349bc-f526-431b-82fb-9192b15677e0}:d:\phidelis\phidelis.entities\interfaces\
+i:{68e84b7f-0bd9-4ddb-9b26-50345e8a754e}:d:\phidelis\phidelis.service\interfaces\
+++IBaseRepository.cs
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:d:\phidelis\phidelis.repository\interfaces\ibaserepository.cs
+++IEnrolmentRepository.cs
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:d:\phidelis\phidelis.repository\interfaces\ienrolmentrepository.cs
+++Mappings
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:d:\phidelis\phidelis.repository\mappings\
+++EnrolmentMap.cs
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:d:\phidelis\phidelis.repository\mappings\enrolmentmap.cs
+++BaseRepository.cs
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:d:\phidelis\phidelis.repository\baserepository.cs
+++EnrolmentRepository.cs
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:d:\phidelis\phidelis.repository\enrolmentrepository.cs
+++1 - Application
+i:{00000000-0000-0000-0000-000000000000}:1 - Application
+++Phidelis
+i:{fc8cbbb0-59fd-4d63-b8a1-97855abee82c}:Phidelis
+++Connected Services 
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:>642
+i:{57042758-8be3-4305-9ed6-d0debead4a75}:>3623
+++Secrets.json (Local)
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:>2549
+++SQL Server Express LocalDB (Local) (ConnectionStrings:defaultConnection)
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:>2548
+++Microsoft.AspNetCore.App
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\phidelis\microsoft.aspnetcore.app
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.17)
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:>2406
+++Microsoft.VisualStudio.Azure.Containers.Tools.Targets (1.14.0)
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:>684
+++Swashbuckle.AspNetCore (5.6.3)
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:>683
+++Properties
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\phidelis\properties\
+i:{57042758-8be3-4305-9ed6-d0debead4a75}:d:\phidelis\hostedservice\properties\
+++launchSettings.json
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\phidelis\properties\launchsettings.json
+i:{57042758-8be3-4305-9ed6-d0debead4a75}:d:\phidelis\hostedservice\properties\launchsettings.json
+++serviceDependencies.json
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\phidelis\properties\servicedependencies.json
+++Configurations
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\phidelis\configurations\
+++BusinessConfiguration.cs
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\phidelis\configurations\businessconfiguration.cs
+++InfraConfiguration.cs
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\phidelis\configurations\infraconfiguration.cs
+++Controllers
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\phidelis\controllers\
+++EnrolmentController.cs
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\phidelis\controllers\enrolmentcontroller.cs
+++appsettings.json
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\phidelis\appsettings.json
+i:{57042758-8be3-4305-9ed6-d0debead4a75}:d:\phidelis\hostedservice\appsettings.json
+++appsettings.Development.json
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\phidelis\appsettings.development.json
+i:{57042758-8be3-4305-9ed6-d0debead4a75}:d:\phidelis\hostedservice\appsettings.development.json
+++Dockerfile
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\phidelis\dockerfile
+++Program.cs
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\phidelis\program.cs
+i:{57042758-8be3-4305-9ed6-d0debead4a75}:d:\phidelis\hostedservice\program.cs
+++Startup.cs
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\phidelis\startup.cs
+++Microsoft.AspNetCore.Analyzers
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Phidelis.Service
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\phidelis.service\phidelis.service.csproj
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:d:\phidelis\phidelis.service\phidelis.service.csproj
+i:{a8585837-0804-4d04-ab66-c38d7fde38ce}:Phidelis.Service
+++serviceDependencies.local.json
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\phidelis\properties\servicedependencies.local.json
+++.dockerignore
+i:{74c93fd0-3cce-40fc-8853-23c09f6503ed}:d:\phidelis\.dockerignore
+++4 - Domain
+i:{00000000-0000-0000-0000-000000000000}:4 - Domain
+++DTO
+i:{1a2349bc-f526-431b-82fb-9192b15677e0}:d:\phidelis\phidelis.entities\dto\
+++EnrolmentDTO.cs
+i:{1a2349bc-f526-431b-82fb-9192b15677e0}:d:\phidelis\phidelis.entities\dto\enrolmentdto.cs
+++IBaseDTO.cs
+i:{1a2349bc-f526-431b-82fb-9192b15677e0}:d:\phidelis\phidelis.entities\interfaces\ibasedto.cs
+++IBaseModel.cs
+i:{1a2349bc-f526-431b-82fb-9192b15677e0}:d:\phidelis\phidelis.entities\interfaces\ibasemodel.cs
+++Models
+i:{1a2349bc-f526-431b-82fb-9192b15677e0}:d:\phidelis\phidelis.entities\models\
+++Enrolment.cs
+i:{1a2349bc-f526-431b-82fb-9192b15677e0}:d:\phidelis\phidelis.entities\models\enrolment.cs
+++6 - Test
+++Phidelis.UnitTest
+i:{0660e975-8ede-49bc-af99-f075c71c3585}:Phidelis.UnitTest
+++coverlet.collector (3.1.0)
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:>653
+++Microsoft.NET.Test.Sdk (16.11.0)
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:>650
+++Moq (4.18.1)
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:>714
+++xunit (2.4.1)
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:>651
+++xunit.runner.visualstudio (2.4.3)
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:>652
+++Repository
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:d:\phidelis\phidelis.unittest\repository\
+++EnrolmentRepositoryTest.cs
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:d:\phidelis\phidelis.unittest\repository\enrolmentrepositorytest.cs
+++Service
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:d:\phidelis\phidelis.unittest\service\
+++EnrolmentServiceTest.cs
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:d:\phidelis\phidelis.unittest\service\enrolmentservicetest.cs
+++xunit.analyzers
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:c:\users\lneve\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+++2 - Business
+i:{00000000-0000-0000-0000-000000000000}:2 - Business
+++IBaseService.cs
+i:{68e84b7f-0bd9-4ddb-9b26-50345e8a754e}:d:\phidelis\phidelis.service\interfaces\ibaseservice.cs
+++IEnrolmentService.cs
+i:{68e84b7f-0bd9-4ddb-9b26-50345e8a754e}:d:\phidelis\phidelis.service\interfaces\ienrolmentservice.cs
+++BaseService.cs
+i:{68e84b7f-0bd9-4ddb-9b26-50345e8a754e}:d:\phidelis\phidelis.service\baseservice.cs
+++EnrolmentService.cs
+i:{68e84b7f-0bd9-4ddb-9b26-50345e8a754e}:d:\phidelis\phidelis.service\enrolmentservice.cs
+++InfraConfiguration.cs~RF5d011108.TMP
+++Microsoft.EntityFrameworkCore.Relational (5.0.17)
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:>2632
+++BaseRepository.cs~RF5d7079f7.TMP
+++BaseRepository.cs~RF5d742cce.TMP
+++BaseService.cs~RF5d7776f8.TMP
+++BaseService.cs~RF5d793cd3.TMP
+++EnrolmentController.cs~RF5d7ac3f0.TMP
+++EnrolmentRepositoryTest.cs~RF5dc31241.TMP
+++EnrolmentRepositoryTest.cs~RF5dc6ef06.TMP
+++EnrolmentRepositoryTest.cs~RF5dc7f72f.TMP
+++EnrolmentRepositoryTest.cs~RF5dc9d853.TMP
+++EnrolmentServiceTest.cs~RF5dce1fd8.TMP
+++EnrolmentServiceTest.cs~RF5dcf2830.TMP
+++EnrolmentServiceTest.cs~RF5dd0f7a0.TMP
+++EnrolmentServiceTest.cs~RF5dd2143c.TMP
+++NewFolder
+++Model
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:d:\phidelis\phidelis.unittest\model\
+++EnrolmentTest.cs
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:d:\phidelis\phidelis.unittest\model\enrolmenttest.cs
+++EnrolmentRepositoryTest.cs~RF5ded6844.TMP
+++EnrolmentRepositoryTest.cs~RF5df1f7de.TMP
+++EnrolmentRepositoryTest.cs~RF5e03ba51.TMP
+++EnrolmentRepositoryTest.cs~RF5e0773bf.TMP
+++EnrolmentRepositoryTest.cs~RF6207fa30.TMP
+++EnrolmentRepositoryTest.cs~RF620aa432.TMP
+++Interface
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:d:\phidelis\phidelis.repository\context\interface\
+++IPhidelisEFContext.cs
+i:{45a6546f-d378-41f7-9543-c5baffb3cf27}:d:\phidelis\phidelis.repository\context\interface\iphidelisefcontext.cs
+++DbTes
+++DbTest
+++DbSetTest.cs
+++EnrolmentRepositoryTest.cs~RF625496fb.TMP
+++Microsoft.EntityFrameworkCore.InMemory (5.0.17)
+i:{6c17f495-02f1-4da3-b9ab-61300cce1de1}:>3547
+++EnrolmentRepositoryTest.cs~RF626af1a3.TMP
+++EnrolmentRepositoryTest.cs~RF626c5a3c.TMP
+++EnrolmentRepositoryTest.cs~RF626e1f3d.TMP
+++EnrolmentServiceTest.cs~RF6279b8e7.TMP
+++EnrolmentServiceTest.cs~RF627aa3a5.TMP
+++5 - Test
+i:{00000000-0000-0000-0000-000000000000}:5 - Test
+++NewFolder1
+++6 - HostedService
+i:{00000000-0000-0000-0000-000000000000}:6 - HostedService
+++Solution 'Phidelis' ‎(6 of 6 projects)
+i:{00000000-0000-0000-0000-000000000000}:Phidelis.sln
+++HostedService
+i:{809b42d9-e637-4e08-b23f-14106f31d2ca}:HostedService
+++Worker.cs
+i:{57042758-8be3-4305-9ed6-d0debead4a75}:d:\phidelis\hostedservice\worker.cs
+++No service dependencies discovered
+i:{57042758-8be3-4305-9ed6-d0debead4a75}:>3624
+++Microsoft.Extensions.Hosting (5.0.0)
+++HostedService.cs
+i:{57042758-8be3-4305-9ed6-d0debead4a75}:d:\phidelis\hostedservice\hostedservice.cs
+++Worker.cs~RF628b5284.TMP

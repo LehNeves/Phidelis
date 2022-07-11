@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Phidelis.Service/1.0.0": {
+        "dependencies": {
+          "Phidelis.Entities": "1.0.0",
+          "Phidelis.Repository": "1.0.0"
+        },
+        "runtime": {
+          "Phidelis.Service.dll": {}
+        }
+      },
+      "Phidelis.Entities/1.0.0": {
+        "runtime": {
+          "Phidelis.Entities.dll": {}
+        }
+      },
+      "Phidelis.Repository/1.0.0": {
+        "dependencies": {
+          "Phidelis.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Phidelis.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Phidelis.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Phidelis.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Phidelis.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

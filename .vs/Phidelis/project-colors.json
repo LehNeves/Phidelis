@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6c17f495-02f1-4da3-b9ab-61300cce1de1": {
+      "ProjectGuid": "6c17f495-02f1-4da3-b9ab-61300cce1de1",
+      "DisplayName": "Phidelis.UnitTest",
+      "ColorIndex": 0
+    },
+    "45a6546f-d378-41f7-9543-c5baffb3cf27": {
+      "ProjectGuid": "45a6546f-d378-41f7-9543-c5baffb3cf27",
+      "DisplayName": "Phidelis.Repository",
+      "ColorIndex": 1
+    },
+    "1a2349bc-f526-431b-82fb-9192b15677e0": {
+      "ProjectGuid": "1a2349bc-f526-431b-82fb-9192b15677e0",
+      "DisplayName": "Phidelis.Entities",
+      "ColorIndex": 2
+    },
+    "79c1d31c-19be-477c-9208-2c700650689d": {
+      "ProjectGuid": "79c1d31c-19be-477c-9208-2c700650689d",
+      "DisplayName": "Phidelis.Service",
+      "ColorIndex": 3
+    },
+    "74c93fd0-3cce-40fc-8853-23c09f6503ed": {
+      "ProjectGuid": "74c93fd0-3cce-40fc-8853-23c09f6503ed",
+      "DisplayName": "Phidelis",
+      "ColorIndex": 4
+    },
+    "68e84b7f-0bd9-4ddb-9b26-50345e8a754e": {
+      "ProjectGuid": "68e84b7f-0bd9-4ddb-9b26-50345e8a754e",
+      "DisplayName": "Phidelis.Service",
+      "ColorIndex": 5
+    },
+    "57042758-8be3-4305-9ed6-d0debead4a75": {
+      "ProjectGuid": "57042758-8be3-4305-9ed6-d0debead4a75",
+      "DisplayName": "HostedService",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

@@ -1,0 +1,12 @@
+D:\Phidelis\Phidelis.Entities\bin\Debug\net5.0\Phidelis.Entities.deps.json
+D:\Phidelis\Phidelis.Entities\bin\Debug\net5.0\Phidelis.Entities.dll
+D:\Phidelis\Phidelis.Entities\bin\Debug\net5.0\ref\Phidelis.Entities.dll
+D:\Phidelis\Phidelis.Entities\bin\Debug\net5.0\Phidelis.Entities.pdb
+D:\Phidelis\Phidelis.Entities\obj\Debug\net5.0\Phidelis.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phidelis\Phidelis.Entities\obj\Debug\net5.0\Phidelis.Entities.AssemblyInfoInputs.cache
+D:\Phidelis\Phidelis.Entities\obj\Debug\net5.0\Phidelis.Entities.AssemblyInfo.cs
+D:\Phidelis\Phidelis.Entities\obj\Debug\net5.0\Phidelis.Entities.csproj.CoreCompileInputs.cache
+D:\Phidelis\Phidelis.Entities\obj\Debug\net5.0\Phidelis.Entities.dll
+D:\Phidelis\Phidelis.Entities\obj\Debug\net5.0\ref\Phidelis.Entities.dll
+D:\Phidelis\Phidelis.Entities\obj\Debug\net5.0\Phidelis.Entities.pdb
+D:\Phidelis\Phidelis.Entities\obj\Debug\net5.0\Phidelis.Entities.csproj.AssemblyReference.cache
