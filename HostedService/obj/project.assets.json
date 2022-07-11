@@ -652,7 +652,8 @@
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.14.0": {
         "type": "package",
         "build": {
-          "build/_._": {}
+          "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props": {},
+          "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets": {}
         }
       },
       "Microsoft.Win32.Registry/5.0.0": {
@@ -6737,6 +6738,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.Extensions.Hosting >= 5.0.0",
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.14.0",
       "Phidelis >= 1.0.0",
       "Phidelis.Entities >= 1.0.0",
       "Phidelis.Service >= 1.0.0"
@@ -6799,6 +6801,10 @@
           "Microsoft.Extensions.Hosting": {
             "target": "Package",
             "version": "[5.0.0, )"
+          },
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+            "target": "Package",
+            "version": "[1.14.0, )"
           }
         },
         "imports": [
